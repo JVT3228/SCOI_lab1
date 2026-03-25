@@ -14,4 +14,4 @@ cd backend
 python manage.py runserver
 
 Extensions:
-![extensions, которые я устанавливал](image.png)
+![extensions, которые я устанавливал](image-1.png)
